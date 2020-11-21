@@ -31,7 +31,6 @@ class Player
     end
   end
 end #クラスのend
-
 # 敵が「0 ~ 2」の値をランダムで生成するロジックを書きます。
 class Enemy
   def hand
